@@ -1,0 +1,53 @@
+body{
+    font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+table{
+    color: #212529;
+}
+
+input{
+    text-transform: uppercase;
+}
+
+.btn-datavence{
+    background-color: #79BB00;
+    color: #FFFFFF;
+}
+
+.btn-datavence:hover{
+    color: #CCCCCC;
+}
+
+.btn-datavence-voltar{
+    background-color: #FFFFFF;
+    color: #79BB00;
+    border: solid 1px #79BB00;
+}
+
+.btn-datavence-voltar:hover{
+    color: #CCCCCC;
+}
+
+.btn-datavence-cancel{
+    background-color: #FFFFFF;
+    color: #dc3545;
+    border: solid 1px #dc3545;
+}
+
+.btn-datavence-cancel:hover{
+    color: #CCCCCC;
+}
+
+.table-contatos{
+    text-align: left;
+}
+
+.td-empty{
+    text-align: center;
+}
+
+.bg-datavence{
+
+    background-color: #79BB00;
+}
